@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BLOG one-word domains still available to buy.
 
-This dataset contains 4,097 .BLOG one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,096 .BLOG one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BLOG one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=blog-oneword-domains&utm_content=description.top) (4,097) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BLOG one word domains
 | aaa.blog        | available | 70       | 38%    | 3      |             |                  |                  |
 | abactinal.blog  | premium   | 50       | 1%     | 9      |             |                  |                  |
 | abaft.blog      | premium   | 43       | 2%     | 5      |             |                  |                  |
-| abandoned.blog  | premium   | 58       | 10%    | 9      |             |                  |                  |
+| abandoned.blog  | premium   | 58       | 7%     | 9      |             |                  |                  |
 | abashed.blog    | premium   | 60       | 2%     | 7      |             |                  |                  |
 | abasic.blog     | premium   | 54       | 2%     | 6      |             |                  |                  |
 | abatable.blog   | premium   | 54       | 1%     | 8      |             |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BLOG one word domains
 | abaxial.blog    | available | 54       | 2%     | 7      |             |                  |                  |
 | abbatial.blog   | available | 50       | 1%     | 8      |             |                  |                  |
 | abdicable.blog  | available | 50       | 1%     | 9      |             |                  |                  |
-| abdominal.blog  | available | 82       | 1%     | 9      |             |                  |                  |
+| abdominal.blog  | available | 82       | 5%     | 9      |             |                  |                  |
 | abdominous.blog | available | 56       | 1%     | 10     |             |                  |                  |
 | abducens.blog   | available | 54       | 1%     | 8      |             |                  |                  |
 | abducent.blog   | available | 68       | 1%     | 8      |             |                  |                  |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.BLOG one word domains
 | aberdonian.blog | available | 68       | 1%     | 10     |             |                  |                  |
 | aberrant.blog   | available | 74       | 7%     | 8      |             |                  |                  |
 | abeyant.blog    | available | 56       | 2%     | 7      |             |                  |                  |
-| abhorrent.blog  | available | 54       | 1%     | 9      |             |                  |                  |
+| abhorrent.blog  | available | 54       | 3%     | 9      |             |                  |                  |
 | abient.blog     | premium   | 54       | 1%     | 6      |             |                  |                  |
 | ability.blog    | resell    | 92       | 18%    | 7      | Dynadot LLC | 29/11/2024 06:27 | 29/11/2025 23:59 |
 | abit.blog       | available | 66       | 16%    | 5      |             |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BLOG one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
