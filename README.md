@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BLOG one-word domains still available to buy.
 
-This dataset contains 4,093 .BLOG one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,091 .BLOG one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BLOG one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=blog-oneword-domains&utm_content=description.top) (4,097) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.BLOG one word domains
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar   | Created          | Expires          |
 | --------------- | --------- | -------- | ------ | ------ | ----------- | ---------------- | ---------------- |
-| aaa.blog        | available | 70       | 38%    | 3      |             |                  |                  |
+| aaa.blog        | premium   | 70       | 38%    | 3      |             |                  |                  |
 | abactinal.blog  | premium   | 50       | 1%     | 9      |             |                  |                  |
 | abaft.blog      | premium   | 43       | 2%     | 5      |             |                  |                  |
 | abandoned.blog  | premium   | 58       | 7%     | 9      |             |                  |                  |
