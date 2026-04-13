@@ -1,10 +1,10 @@
-# Available .BLOG One-Word Domains (8,326)
+# Available .BLOG One-Word Domains (8,327)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C327%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C326%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C327%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .blog one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,327 rows · **Live catalog:** 8,326 domains
+**Public extract:** 8,327 rows · **Live catalog:** 8,327 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/blog`  
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
-| screenshot.blog | available | $5.99      | —             | 82             | 24     | 10     | name.com        |
+| outlaw.blog     | available | $2.99      | $37.99        | 62             | 25     | 6      | name.com        |
 | blue.blog       | resell    | —          | —             | 92             | 99     | 4      | Spaceship, Inc. |
 | easy.blog       | premium   | $1,583.75  | $6,250        | 128            | 68     | 4      | name.com        |
-| outlaw.blog     | available | $2.99      | $37.99        | 62             | 24     | 6      | name.com        |
+| screenshot.blog | available | $5.99      | —             | 82             | 24     | 10     | name.com        |
 | standard.blog   | resell    | —          | —             | 66             | 70     | 8      | Spaceship, Inc. |
 | nationwide.blog | premium   | $162.50    | $650          | 76             | 66     | 10     | namecheap       |
 | allied.blog     | available | $2.99      | $37.99        | 74             | 23     | 6      | name.com        |
 | switch.blog     | resell    | —          | —             | 70             | 68     | 6      | Dynadot LLC     |
 | line.blog       | premium   | $650       | $2,600        | 74             | 65     | 4      | namecheap       |
-| cracked.blog    | available | $2.99      | $37.99        | 70             | 20     | 7      | name.com        |
+| component.blog  | available | $2.99      | $37.99        | 84             | 20     | 9      | name.com        |
 | enterprise.blog | resell    | —          | —             | 72             | 61     | 10     | Dynadot LLC     |
 | power.blog      | premium   | $3,250     | $13,000       | 98             | 62     | 5      | namecheap       |
-| composite.blog  | available | $2.99      | $37.99        | 107            | 19     | 9      | name.com        |
+| cracked.blog    | available | $2.99      | $37.99        | 70             | 20     | 7      | name.com        |
 | here.blog       | resell    | —          | —             | 130            | 58     | 4      | Automattic Inc. |
-| free.blog       | premium   | $15,646.25 | $62,500       | 88             | 59     | 4      | name.com        |
-| component.blog  | available | $2.99      | $37.99        | 84             | 19     | 9      | name.com        |
-| search.blog     | resell    | —          | —             | 70             | 57     | 6      | Porkbun, LLC    |
 | cloud.blog      | premium   | $650       | $2,600        | 70             | 59     | 5      | namecheap       |
-| traction.blog   | available | $5.99      | —             | 76             | 19     | 8      | name.com        |
+| coordinate.blog | available | $2.99      | $37.99        | 108            | 19     | 10     | name.com        |
+| search.blog     | resell    | —          | —             | 70             | 57     | 6      | Porkbun, LLC    |
+| free.blog       | premium   | $15,646.25 | $62,500       | 88             | 57     | 4      | name.com        |
+| composite.blog  | available | $2.99      | $37.99        | 107            | 19     | 9      | name.com        |
 | smart.blog      | resell    | —          | —             | 74             | 56     | 5      | Porkbun, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,327-row public sample | 8,326 live domains                               |
+| 8,327-row public sample | 8,327 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
