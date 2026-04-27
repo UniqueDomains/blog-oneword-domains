@@ -1,22 +1,22 @@
-# Available .BLOG One-Word Domains (8,327)
+# Available .BLOG One-Word Domains (10,840)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C327%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C327%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C840%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .blog one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .blog one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,840 domains** on the canonical page below.
 
-**Public extract:** 8,327 rows · **Live catalog:** 8,327 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,840 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/blog`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BLOG one-word domain 
 
 ### Files
 
-- `blog.csv` — public CSV extract (8,327 rows)
-- `blog.json` — public JSON extract (8,327 rows)
+- `blog.csv` — public CSV extract (1,000 rows)
+- `blog.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
-| outlaw.blog     | available | $2.99      | $37.99        | 62             | 25     | 6      | name.com        |
-| blue.blog       | resell    | —          | —             | 92             | 99     | 4      | Spaceship, Inc. |
-| easy.blog       | premium   | $1,583.75  | $6,250        | 128            | 68     | 4      | name.com        |
-| screenshot.blog | available | $5.99      | —             | 82             | 24     | 10     | name.com        |
-| standard.blog   | resell    | —          | —             | 66             | 70     | 8      | Spaceship, Inc. |
-| nationwide.blog | premium   | $162.50    | $650          | 76             | 66     | 10     | namecheap       |
-| allied.blog     | available | $2.99      | $37.99        | 74             | 23     | 6      | name.com        |
-| switch.blog     | resell    | —          | —             | 70             | 68     | 6      | Dynadot LLC     |
-| line.blog       | premium   | $650       | $2,600        | 74             | 65     | 4      | namecheap       |
-| component.blog  | available | $2.99      | $37.99        | 84             | 20     | 9      | name.com        |
-| enterprise.blog | resell    | —          | —             | 72             | 61     | 10     | Dynadot LLC     |
-| power.blog      | premium   | $3,250     | $13,000       | 98             | 62     | 5      | namecheap       |
-| cracked.blog    | available | $2.99      | $37.99        | 70             | 20     | 7      | name.com        |
-| here.blog       | resell    | —          | —             | 130            | 58     | 4      | Automattic Inc. |
-| cloud.blog      | premium   | $650       | $2,600        | 70             | 59     | 5      | namecheap       |
-| coordinate.blog | available | $2.99      | $37.99        | 108            | 19     | 10     | name.com        |
-| search.blog     | resell    | —          | —             | 70             | 57     | 6      | Porkbun, LLC    |
-| free.blog       | premium   | $15,646.25 | $62,500       | 88             | 57     | 4      | name.com        |
-| composite.blog  | available | $2.99      | $37.99        | 107            | 19     | 9      | name.com        |
-| smart.blog      | resell    | —          | —             | 74             | 56     | 5      | Porkbun, LLC    |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| keepthechange.blog | available | $5.99     | —             | 46             | 59     | 15     | name.com        |
+| smart.blog         | resell    | —         | —             | 74             | 56     | 5      | Porkbun, LLC    |
+| online.blog        | premium   | $3,146.25 | —             | 70             | 62     | 7      | name.com        |
+| forms.blog         | available | $5.99     | —             | 54             | 28     | 5      | name.com        |
+| prompts.blog       | resell    | —         | —             | 54             | 39     | 7      | Go Daddy, LLC   |
+| regions.blog       | premium   | $175.70   | $700          | 64             | 59     | 7      | namecheap       |
+| fivestar.blog      | available | $5.99     | —             | 86             | 25     | 9      | name.com        |
+| letsgo.blog        | resell    | —         | —             | 57             | 31     | 7      | Spaceship, Inc. |
+| robots.blog        | premium   | $640      | $0.99         | 62             | 47     | 6      | namesilo        |
+| Adidas.blog        | available | $32.98    | —             | 88             | 23     | 6      | namecheap       |
+| blocks.blog        | resell    | —         | —             | 53             | 29     | 6      | Namecheap       |
+| WiFi.blog          | premium   | $175      | $700          | 83             | 37     | 5      | namecheap       |
+| loops.blog         | available | $5.99     | —             | 70             | 19     | 5      | name.com        |
+| principles.blog    | resell    | —         | —             | 58             | 27     | 10     | Spaceship, Inc. |
+| events.blog        | premium   | $646.25   | —             | 68             | 37     | 6      | name.com        |
+| fonts.blog         | available | $4.29     | $22.99        | 58             | 17     | 5      | namesilo        |
+| allstar.blog       | resell    | —         | —             | 88             | 20     | 8      | Go Daddy, LLC   |
+| stories.blog       | premium   | $646.25   | —             | 58             | 36     | 7      | name.com        |
+| reservations.blog  | available | $5.99     | —             | 50             | 17     | 12     | name.com        |
+| registration.blog  | resell    | —         | —             | 75             | 19     | 12     | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,327-row public sample | 8,327 live domains                               |
+| 1,000-row public sample | 10,840 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
