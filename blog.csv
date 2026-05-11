@@ -344,7 +344,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 209ca0d3-7cb9-4886-98a1-98cfa6e97eba,dothejob.blog,available,5.99,,74,1,10,name.com,,
 20c1f496-61f1-4e91-957a-b09802c2cf16,packs.blog,premium,646.25,,54,15,5,name.com,,
 20ce7b9d-0c52-4747-a068-cbdb36dc785a,stretches.blog,available,5.99,,50,2,9,name.com,,
-20e62114-e70a-4da1-8166-f360b6945138,simpler.blog,available,5.99,,66,16,7,name.com,,
+20e62114-e70a-4da1-8166-f360b6945138,simpler.blog,available,5.99,,66,17,7,name.com,,
 20fbd311-32ea-4ef1-b3c3-4accf3b7a9b9,wears.blog,available,5.99,,62,7,5,name.com,,
 213ab029-e664-4666-8315-2cfc1447a8a2,committees.blog,premium,53.92,0.99,48,3,10,namesilo,,
 2158aa20-03a0-4376-909c-471f5943699c,makeuseof.blog,available,5.99,,58,2,11,name.com,,
@@ -740,7 +740,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4453c641-6b0a-49b8-9d33-b6a2ec864785,keepunder.blog,available,5.99,,66,1,10,name.com,,
 4462d49c-e3d6-474e-85dc-7d5cc1594516,keepsomebodyposted.blog,available,5.99,,46,0,20,name.com,,
 446dde07-45f2-412f-b7a4-04de86982e97,characterised.blog,available,5.99,,48,1,13,name.com,,
-447b6af6-d7a5-4292-b1c2-75cb45e7f534,allstar.blog,resell,,,88,20,8,"Go Daddy, LLC",01/02/2026 16:59,01/02/2027 16:59
+447b6af6-d7a5-4292-b1c2-75cb45e7f534,allstar.blog,resell,,,88,19,8,"Go Daddy, LLC",01/02/2026 16:59,01/02/2027 16:59
 447f5bd0-230d-48c7-b0d2-170ed59c11f4,closets.blog,premium,175.7,700,56,10,7,namecheap,,
 448b9d58-ddc9-4987-879c-0c8dadcb980e,ballplaying.blog,available,5.99,,70,1,12,name.com,,
 44aad4be-f06c-4a9e-bc0d-dc964bee8367,motors.blog,premium,640,0.99,50,18,6,namesilo,,
