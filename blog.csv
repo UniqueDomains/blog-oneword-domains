@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0054ea2c-1e10-453f-9b93-840adb92007a,owning.blog,available,4.29,22.99,52,7,6,namesilo,,
 005c3998-c2cb-4605-8ef4-4522ee362759,busfare.blog,available,5.99,,70,1,8,name.com,,
 006eb034-8ec3-479b-941b-27fa9dcd3bfd,thongs.blog,available,4.29,22.99,50,5,6,namesilo,,
-0089738d-b2c0-4f76-9110-2de0be8654da,Iknowit.blog,available,32.98,,58,7,9,namecheap,,
+0089738d-b2c0-4f76-9110-2de0be8654da,Iknowit.blog,available,32.98,,58,5,9,namecheap,,
 013e7ea2-4243-47d0-928b-41298003f3e1,beonto.blog,available,5.99,,74,1,8,name.com,,
 014c380c-5db8-4a02-ade8-72664e0c5626,brings.blog,available,5.99,,52,8,6,name.com,,
 016f8569-f46d-4e97-a29a-28304f792426,skateover.blog,available,5.99,,60,0,10,name.com,,
@@ -45,7 +45,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04a8dacd-2777-4af9-a4ce-ebd53f7207eb,subsets.blog,available,4.29,22.99,54,3,7,namesilo,,
 04be2b9b-fc0b-4650-a980-b0df49852528,HighRenaissance.blog,available,4.29,22.99,64,1,16,namesilo,,
 04c2f494-6b00-4d4a-8764-0e7715b5f95a,waxpaper.blog,available,5.99,,66,2,9,name.com,,
-04f1489c-6762-4e50-8695-9fe567dc8829,figures.blog,premium,70,280,58,19,7,namecheap,,
+04f1489c-6762-4e50-8695-9fe567dc8829,figures.blog,premium,70,280,58,10,7,namecheap,,
 05099d58-c4a5-4a77-a051-84d45edfb17d,prowlers.blog,available,4.29,22.99,40,2,8,namesilo,,
 0576bf4f-928e-4528-aa35-8493794af272,upandaround.blog,available,5.99,,60,1,13,name.com,,
 05793ba2-ff04-4cd6-9345-135ee1be89ba,reaches.blog,available,5.99,,70,5,7,name.com,,
@@ -474,7 +474,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2cf5b57e-4b2a-4831-ad8c-f0da4706ef8c,keepthechange.blog,available,5.99,,46,59,15,name.com,,
 2cf7ccfc-9504-494e-8bb1-89110374a62b,segregation.blog,available,5.99,,62,2,11,name.com,,
 2cfcad13-c054-4e4e-b042-493ae2e8ea2a,trussbeam.blog,available,5.99,,54,1,10,name.com,,
-2d190552-3eb2-407b-93c6-16f997018c9a,principles.blog,resell,,,58,27,10,"Spaceship, Inc.",08/02/2026 21:48,08/02/2027 21:48
+2d190552-3eb2-407b-93c6-16f997018c9a,principles.blog,resell,,,58,20,10,"Spaceship, Inc.",08/02/2026 21:48,08/02/2027 21:48
 2d1ccabc-ffee-4e69-b37f-5c5284374d6e,inchargeof.blog,available,5.99,,49,1,12,name.com,,
 2d20291a-8ed8-4542-a0fc-7dc1726e27a2,patches.blog,available,5.99,,53,16,7,name.com,,
 2d2ab821-bf27-42e5-bb76-016e84a16407,commonheather.blog,available,4.29,22.99,64,1,14,namesilo,,
