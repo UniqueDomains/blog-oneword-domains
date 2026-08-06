@@ -1,10 +1,10 @@
-# Available .BLOG One-Word Domains (11,034)
+# Available .BLOG One-Word Domains (11,074)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C034%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C074%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .blog one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,034 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,074 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,034 domains · **Median ask:** $245.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,074 domains · **Median ask:** $217.99 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/blog`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/blog`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BLOG one-word domain 
 
 ### Files
 
-- `blog.csv` — public CSV extract (1,000 rows)
-- `blog.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `blog.csv`, public CSV extract (1,000 rows)
+- `blog.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| usa.blog              | premium   | $3,146.25 | —             | 88             | 46     | 3      | name.com  |
-| detox.blog            | premium   | $160      | $640          | 92             | 22     | 5      | namesilo  |
-| peaking.blog          | available | $4.29     | $22.99        | 88             | 5      | 7      | namesilo  |
-| vegetable.blog        | premium   | $160      | $640          | 98             | 11     | 9      | namesilo  |
-| yet.blog              | premium   | $160      | $0.99         | 112            | 17     | 3      | namesilo  |
-| white.blog            | premium   | $646.25   | —             | 102            | 37     | 5      | name.com  |
-| triple.blog           | premium   | $160      | $0.99         | 104            | 22     | 6      | namesilo  |
-| wireless.blog         | premium   | $650      | $2,600        | 106            | 24     | 8      | namecheap |
-| bucolic.blog          | premium   | —         | —             | 80             | 3      | 7      | —         |
-| living.blog           | premium   | $1,583.75 | —             | 94             | 31     | 6      | name.com  |
-| trillionaire.blog     | available | $5.99     | —             | 80             | 12     | 12     | name.com  |
-| adviser.blog          | available | $4.29     | $22.99        | 80             | 14     | 7      | namesilo  |
-| grandmotherinlaw.blog | available | $4.29     | $22.99        | 80             | 1      | 18     | namesilo  |
-| superstar.blog        | premium   | $162.50   | $650          | 80             | 24     | 9      | namecheap |
-| searching.blog        | premium   | $640      | $0.99         | 84             | 12     | 9      | namesilo  |
-| comparable.blog       | available | $2.99     | $37.99        | 87             | 5      | 10     | name.com  |
-| two.blog              | premium   | $646.25   | $2,500        | 80             | 27     | 3      | name.com  |
-| abortive.blog         | available | $5.99     | $37.99        | 90             | 1      | 8      | name.com  |
-| concern.blog          | premium   | $53.92    | $0.99         | 86             | 9      | 7      | namesilo  |
-| bar.blog              | premium   | $1,583.75 | —             | 86             | 35     | 3      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ague.blog    | available | $2.98     | $32.98        | low            | low    | 4      | namecheap       |
+| through.blog | resell    | $5.99     | —             | high           | low    | 7      | Spaceship, Inc. |
+| aaa.blog     | premium   | $650      | $2,600        | high           | medium | 3      | namecheap       |
+| alky.blog    | available | $2.98     | $32.98        | low            | low    | 4      | namecheap       |
+| awake.blog   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| abo.blog     | premium   | $640      | $2,660        | low            | low    | 3      | namesilo        |
+| avon.blog    | available | $4.29     | $22.99        | high           | low    | 4      | namesilo        |
+| goon.blog    | resell    | —         | —             | high           | low    | 5      | Dynadot LLC     |
+| add.blog     | premium   | $1,583.75 | —             | high           | low    | 3      | name.com        |
+| camo.blog    | available | $4.29     | $22.99        | high           | low    | 4      | namesilo        |
+| usual.blog   | resell    | —         | —             | high           | low    | 5      | eNom, Inc.      |
+| any.blog     | premium   | $1,583.75 | —             | high           | medium | 3      | name.com        |
+| flew.blog    | available | $4.29     | $22.99        | high           | low    | 4      | namesilo        |
+| vocal.blog   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| bae.blog     | premium   | $160      | $640          | high           | low    | 3      | namesilo        |
+| lxvi.blog    | available | $2.98     | $32.98        | low            | low    | 4      | namecheap       |
+| granny.blog  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC   |
+| bar.blog     | premium   | $1,583.75 | —             | high           | low    | 3      | name.com        |
+| sued.blog    | available | $4.29     | $22.99        | low            | low    | 4      | namesilo        |
+| switch.blog  | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,034 live domains                        |
+| 1,000-row public sample | 11,074 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .blog domains. The set is broad enough to include dictionary words, coined terms, short verbs, and brand-like constructions such as Acup.blog, barup.blog, useit.blog, and playon.blog. For founders, the main question is whether the word is memorable, easy to say, and specific enough to support a focused content brand. For investors, the key test is whether the word has recognizable commercial meaning at a low enough ask to justify the hold. Because .blog is a niche extension, pricing discipline and renewal assumptions matter more than hype. Names that resemble major brands require extra caution.
+This list of .blog domains spans one-word and short-phrase names across Available, Premium, and Resell status. Pricing skews low, with most names under $500 and a smaller premium tier reaching into the thousands. When comparing these domains, weigh asking price against renewal cost, spelling simplicity, and how closely the name fits a media or content brand.
 
-- Prioritize clear, memorable words over clever but vague terms
-- Use median ask 161.23 as a rough pricing reference point
-- Check trademark exposure on names like Adidas.blog first
-- Favor words that fit publishing, commentary, or audience niches
+- 7,623 domains marked Available; 3,276 Premium status
+- Median ask ~$218; most listings under $500
+- 637 domains align with brandable, founder-ready criteria
+- show.blog and motors.blog show large ask-to-reference spreads
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
