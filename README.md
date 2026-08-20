@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .blog one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,516 domains · **Median ask:** $151.36 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/blog`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| half.blog    | premium   | $160      | $0.99         | high           | low    | 4      | namesilo        |
 | ague.blog    | available | $2.98     | $32.98        | low            | low    | 4      | namecheap       |
 | through.blog | resell    | $5.99     | —             | high           | low    | 7      | Spaceship, Inc. |
 | aaa.blog     | premium   | $650      | $2,600        | high           | medium | 3      | namecheap       |
@@ -84,6 +83,7 @@ print(df.head())
 | granny.blog  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC   |
 | bae.blog     | premium   | $160      | $640          | high           | low    | 3      | namesilo        |
 | lxvi.blog    | available | $2.98     | $32.98        | low            | low    | 4      | namecheap       |
+| switch.blog  | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
