@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .blog one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,934 domains · **Median ask:** $102.65 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/blog`
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | goon.blog    | resell    | —         | —             | high           | low    | 5      | Dynadot LLC     |
 | add.blog     | premium   | $1,583.75 | —             | high           | low    | 3      | name.com        |
 | avon.blog    | available | $4.29     | $22.99        | high           | low    | 4      | namesilo        |
-| usual.blog   | resell    | —         | —             | high           | low    | 5      | eNom, Inc.      |
+| vocal.blog   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
 | any.blog     | premium   | $1,583.75 | —             | high           | medium | 3      | name.com        |
 | camo.blog    | available | $4.29     | $22.99        | high           | low    | 4      | namesilo        |
-| vocal.blog   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| granny.blog  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC   |
 | arc.blog     | premium   | $1,582.50 | $6,250        | medium         | medium | 3      | name.com        |
 | flew.blog    | available | $4.29     | $22.99        | high           | low    | 4      | namesilo        |
-| granny.blog  | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC   |
+| switch.blog  | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
 | bae.blog     | premium   | $160      | $640          | high           | low    | 3      | namesilo        |
 | lxvi.blog    | available | $2.98     | $32.98        | low            | low    | 4      | namecheap       |
-| switch.blog  | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
+| defence.blog | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

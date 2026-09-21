@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2bef1148-4068-4d90-80b6-d01e2656123e,mosque.blog,available,5.99,,high,low,6,name.com,,,
 d59f7146-530a-4a02-a0e6-cabe0621d1bd,gorgeous.blog,premium,53.92,0.99,high,low,8,namesilo,,,
 899db045-5b9a-4cf6-90ea-bd783c32eba2,porticoed.blog,available,2.98,32.98,low,low,9,namecheap,,,
-97960025-1a66-4c8b-9044-48cde1bf3e24,Imustsay.blog,available,4.29,22.99,medium,low,10,namesilo,,,
+97960025-1a66-4c8b-9044-48cde1bf3e24,imustsay.blog,available,4.29,22.99,medium,low,10,namesilo,,,
 74e99211-525c-45bf-a8b8-9d3bf3dda679,detox.blog,premium,160,640,high,low,5,namesilo,,,
 02da8854-03fe-4ef2-be58-2140e79b39c6,aneurismal.blog,available,2.98,32.98,low,low,10,namecheap,,,
 514fc6a6-c88f-44b6-9cdb-17ba4a816286,atbottom.blog,available,4.29,22.99,medium,low,9,namesilo,,,
@@ -15,8 +15,8 @@ b3a488ce-7305-44d8-8c82-cc56df95a68e,plain.blog,premium,70.7,280,medium,low,5,na
 d9eef379-76c1-427d-bf6f-6694171e3b5c,became.blog,available,4.29,22.99,medium,low,6,namesilo,,,
 d4036af7-0ecb-4c11-93e1-add7cc481100,adhominem.blog,available,2.98,32.98,low,low,10,namecheap,,,
 ba556b8a-c55c-43c0-8a57-50ac03fdb9e4,ambulant.blog,available,2.98,32.98,low,low,8,namecheap,,,
-a069ea3e-bf24-4ed3-a117-5d29a9e7979c,white.blog,premium,640,2660,medium,medium,5,namesilo,,,08/09/2026 05:57
-58e63205-8e8c-406d-99d5-ce898440ae10,Gregorio.blog,premium,53.92,242,medium,low,8,namesilo,,,
+a069ea3e-bf24-4ed3-a117-5d29a9e7979c,white.blog,premium,645,2500,medium,low,5,name.com,,,19/09/2026 14:26
+58e63205-8e8c-406d-99d5-ce898440ae10,gregorio.blog,premium,53.92,242,medium,low,8,namesilo,,,
 968e500b-7df0-440d-8f3f-3a9bab072886,passalong.blog,available,4.29,22.99,high,low,10,namesilo,,,
 ee06a6f2-7469-42e4-971b-5bf9e0827534,rearwards.blog,available,2.98,32.98,low,low,9,namecheap,,,08/08/2026 06:56
 12ddd935-9b93-4f60-8c6a-ba3ffe74df3a,sixtyfive.blog,available,2.98,32.98,low,low,10,namecheap,,,
@@ -31,7 +31,6 @@ a9142b3f-c130-40b1-808a-634c3f98d549,acinar.blog,available,2.98,32.98,low,low,6,
 91234b90-35c7-4b9d-83b8-d19acb20f7b7,awfully.blog,available,4.29,22.99,medium,low,7,namesilo,,,
 89273cd2-2079-4319-89ef-1b71666e4321,awful.blog,premium,53.92,0.99,high,low,5,namesilo,,,
 163fefb1-fd26-4667-a6a3-371400273fd3,adventive.blog,available,2.98,32.98,low,low,9,namecheap,,,
-7b9e7f77-d881-4b1e-b526-eec79c9ab1ca,laboratory.blog,resell,,,high,low,10,"Go Daddy, LLC",03/08/2025 02:59,03/08/2026 02:59,
 af5e73f6-b387-484c-b895-65cc180c14f5,prevent.blog,premium,160,640,high,low,7,namesilo,,,
 e1312d26-ca94-49ef-a8bd-b18a7da27d27,kilogramme.blog,available,5.99,,medium,low,10,name.com,,,
 6a7122fb-7d3f-4d5d-82e4-02f394676ac7,wireless.blog,premium,650,2600,high,low,8,namecheap,,,
@@ -52,7 +51,7 @@ d75de5d0-e135-480a-8184-87efdc03c7d2,forthat.blog,available,4.29,22.99,medium,lo
 627fb74a-8ec2-4d85-9c47-9d33f2b6682f,pulloff.blog,available,4.29,22.99,low,low,8,namesilo,,,
 ad6fc3ab-9bc4-4920-83d8-551f51d613e9,ammino.blog,available,2.98,32.98,low,low,6,namecheap,,,
 d6cddfe2-6c07-4283-95d8-8b738c8b9f2d,maker.blog,premium,646.25,2500,high,low,5,name.com,,,
-f754e0ed-1cfc-4e53-9d6c-ebe4b1c5558a,test.blog,premium,15646.25,,high,high,4,name.com,,,
+f754e0ed-1cfc-4e53-9d6c-ebe4b1c5558a,test.blog,premium,17250,69000,medium,low,4,namesilo,,,19/09/2026 10:44
 237cfde0-4937-4615-a3e5-d020b3247476,daughter.blog,premium,175.7,700,high,low,8,namecheap,,,
 b9d58767-5a19-4dca-af71-30c84acdd25b,oncemore.blog,available,2.98,32.98,low,low,9,namecheap,,,13/09/2026 18:09
 29c3d795-ed13-436e-bdeb-db82e8f339ac,attheworst.blog,available,4.29,22.99,medium,low,12,namesilo,,,
@@ -129,7 +128,7 @@ de92abea-1628-4c4c-9d00-19c8e112a8ad,deputy.blog,available,4.29,22.99,high,low,6
 d803103d-3415-4db2-8fde-1e73f429cfc3,ternion.blog,available,2.98,32.98,low,low,7,namecheap,,,
 abc150f0-a0ae-407b-a834-05333e526678,eyesight.blog,available,,,medium,low,9,,,,
 44d6d07a-05ea-4338-8d22-35e571a2f8aa,saddletree.blog,available,5.99,,low,low,11,name.com,,,
-8d333b5d-1aaa-40b7-9c02-150dbb65ec23,screen.blog,premium,160,640,high,low,6,namesilo,,,
+8d333b5d-1aaa-40b7-9c02-150dbb65ec23,screen.blog,premium,162.5,650,medium,low,6,namecheap,,,19/09/2026 13:37
 24ce8376-abeb-4709-9b61-bb45c9cf1eeb,nearly.blog,available,4.29,22.99,high,low,6,namesilo,,,
 9b304c34-8623-41d6-a1d6-6642d342d3a4,pal.blog,premium,1583.75,,high,low,3,name.com,,,
 6f60305a-7c41-4934-a972-10d29b0334c1,substitution.blog,available,5.99,,low,low,12,name.com,,,
@@ -142,15 +141,15 @@ ed2e8778-4817-43b8-8e8f-df75bffdf862,cxl.blog,premium,640,2660,low,low,3,namesil
 fbce828c-7e81-494b-824f-f8f117d125a2,whitevinegar.blog,available,4.29,22.99,low,low,13,namesilo,,,
 56966411-0e17-402a-bb0e-d418b3d53990,viii.blog,available,2.98,32.98,low,low,4,namecheap,,,
 fcb2cb38-a648-4283-b8b0-67fda9729510,mumbojumbo.blog,available,,,low,low,11,,,,
-a60e9072-c7cb-4609-802b-a45b771b1baa,Leia.blog,premium,53.92,242,high,low,4,namesilo,,,
+a60e9072-c7cb-4609-802b-a45b771b1baa,leia.blog,premium,53.92,242,high,low,4,namesilo,,,
 791568aa-c2ae-4b0d-8f54-7cad24301240,factor.blog,premium,175.7,700,medium,low,6,namecheap,,,
 68402d8a-fda3-435f-9a05-e325a3daa0f9,spurious.blog,available,2.98,32.98,low,low,8,namecheap,,,09/08/2026 00:03
 ea0e576d-bfcc-46ee-9bf5-9ab4cb319672,vacuous.blog,available,,,low,low,7,,,,
-7ff46c34-ac1e-41ff-857d-a8ac2701fe8c,Women.blog,premium,3146.25,,medium,low,5,name.com,,,
-21bb2f10-40bb-4ecd-8425-d58f985dcb3b,JusticeofthePeace.blog,available,4.29,22.99,medium,low,20,namesilo,,,
+7ff46c34-ac1e-41ff-857d-a8ac2701fe8c,women.blog,premium,3146.25,,medium,low,5,name.com,,,
+21bb2f10-40bb-4ecd-8425-d58f985dcb3b,justiceofthepeace.blog,available,4.29,22.99,medium,low,20,namesilo,,,
 a0582a07-8aeb-44fd-99d0-a2c97ed24d16,bringto.blog,available,4.29,22.99,high,low,8,namesilo,,,
 2ed41ffa-caef-4928-aac1-63a194f5e587,comedian.blog,premium,640,0.99,high,low,8,namesilo,,,
-ccbc2cc1-244c-4e2f-9519-88f3bca87289,large.blog,premium,160,640,medium,low,5,namesilo,,,15/09/2026 03:10
+ccbc2cc1-244c-4e2f-9519-88f3bca87289,large.blog,premium,160,640,medium,low,5,namesilo,,,19/09/2026 10:18
 de382011-f3e6-49e4-bc20-78b5a18562d6,means.blog,premium,70.7,280,high,low,5,namecheap,,,
 eafabd4a-36ed-45cc-b4cb-7785e393f3e3,flexing.blog,available,5.99,,high,low,7,name.com,,,
 75a2c3c7-1bb3-4284-a7b3-2f03220f8778,makelemonade.blog,available,4.29,22.99,high,low,13,namesilo,,,
@@ -174,14 +173,14 @@ d20f955e-078f-44ba-9736-7b145d85b424,adopted.blog,available,2.98,32.98,low,low,7
 cdf1e348-1218-4600-89a0-0f191f870b82,ways.blog,premium,53.92,242,high,low,4,namesilo,,,
 9f24260d-0d3c-4b4e-b1c5-00d6fcf61d3d,football.blog,premium,3146.25,,high,low,8,name.com,,,
 3027173f-0ef2-4a18-9759-db775fb0efe5,carefully.blog,available,4.29,22.99,medium,low,9,namesilo,,,
-5bbbe016-8498-4cfc-906a-127142b239e0,Californiakilowatt.blog,available,4.29,22.99,high,low,19,namesilo,,,
+5bbbe016-8498-4cfc-906a-127142b239e0,californiakilowatt.blog,available,4.29,22.99,high,low,19,namesilo,,,
 b7d2de24-a94a-4f27-aa2b-25a4b003fec0,passion.blog,premium,640,0.99,high,low,7,namesilo,,,
 a2fc5c08-5bdf-44f9-98a0-664c752df787,evacuate.blog,premium,53.92,242,medium,low,8,namesilo,,,
 338a93e2-e392-4774-80c3-84e3c71e0056,aphyllous.blog,available,2.98,32.98,low,low,9,namecheap,,,05/08/2026 23:42
 389dcd18-b3f8-425a-b71c-a4d7c068d187,hybrid.blog,premium,640,0.99,high,low,6,namesilo,,,
 f9a09065-8d49-4769-ab53-19814af1dca6,charactertrait.blog,available,4.29,22.99,high,low,15,namesilo,,,
-4ceec855-3b42-4e32-b2e4-2d94c27f8868,SouthAmerica.blog,premium,175,700,low,low,13,namecheap,,,
-dd909a9d-e393-4770-a6ea-c0f4b045fdcc,custom.blog,premium,646.25,2500,high,low,6,name.com,,,
+4ceec855-3b42-4e32-b2e4-2d94c27f8868,southamerica.blog,premium,175,700,low,low,13,namecheap,,,
+dd909a9d-e393-4770-a6ea-c0f4b045fdcc,custom.blog,premium,640,2660,medium,low,6,namesilo,,,20/09/2026 02:48
 33e21178-1f71-4d62-a359-557bf151b905,dime.blog,premium,53.92,242,medium,low,4,namesilo,,,
 e7a4ed3b-67c7-41b1-8f13-0d73ba03e37f,wordplay.blog,available,4.29,22.99,medium,low,9,namesilo,,,
 6aff644a-e56c-4af2-ac05-705dadc6520e,suspend.blog,available,4.29,22.99,high,low,7,namesilo,,,
@@ -208,7 +207,7 @@ bc6f8fd3-64b3-4085-94c0-13ea7c76569f,cheeses.blog,premium,53.92,242,high,low,7,n
 66b28b7e-6b72-4599-bf0d-abe6c6cd076b,thinktwice.blog,available,4.29,22.99,medium,low,11,namesilo,,,
 42358bd7-a381-4d5a-8a5d-8a8a4af2ee5d,understand.blog,premium,53.92,242,high,low,10,namesilo,,,
 6d43e9a1-5652-46f9-831b-107567b0fd7c,nonplussed.blog,available,2.98,32.98,low,low,10,namecheap,,,07/08/2026 10:48
-2aff3157-43d6-4ffc-ae02-ac4724d26bc3,desire.blog,premium,160,640,medium,low,6,namesilo,,,15/09/2026 03:37
+2aff3157-43d6-4ffc-ae02-ac4724d26bc3,desire.blog,premium,162.5,650,medium,low,6,namecheap,,,19/09/2026 18:10
 fd674ded-a91c-43a9-ae71-9db226c4cf55,granny.blog,resell,,,high,low,6,"NameSilo, LLC",25/04/2020 14:17,25/04/2027 23:59,
 95137b05-92db-403b-b582-ac721ef93363,carsick.blog,available,2.98,32.98,low,low,7,namecheap,,,
 37fdd323-afbe-463f-9b1a-eb2cba5cf0fa,capitol.blog,available,4.29,22.99,medium,low,7,namesilo,,,
@@ -230,7 +229,7 @@ f82059c3-97f2-4eef-83b7-fd7faa626c7a,childsexualabuse.blog,available,4.29,22.99,
 f61b097f-cf98-48f0-b2c4-91744fb8bab4,jabber.blog,available,4.29,22.99,high,low,6,namesilo,,,
 791b5bbc-bdc7-452d-b24d-372efdc2e0a6,apogamic.blog,available,2.98,32.98,low,low,8,namecheap,,,06/08/2026 01:41
 4f976a28-706e-415f-959e-2883a4bd8c6a,goon.blog,resell,,,high,low,5,Dynadot LLC,15/02/2026 14:07,15/02/2027 14:07,
-9130f01b-92a5-4117-ab4c-255dc348e429,OurFather.blog,available,4.29,22.99,low,low,10,namesilo,,,
+9130f01b-92a5-4117-ab4c-255dc348e429,ourfather.blog,available,4.29,22.99,low,low,10,namesilo,,,
 98cdd0e3-b6bf-4ae7-a34b-f7d5dbb08aa7,activity.blog,premium,160,0.99,high,low,8,namesilo,,,
 84992f6a-8406-4631-9b24-75385e386546,polonecksweater.blog,available,4.29,22.99,high,low,17,namesilo,,,
 72afe56f-1183-41bf-b8ad-ade6e1200a8b,sitabout.blog,available,4.29,22.99,low,low,9,namesilo,,,
@@ -238,7 +237,7 @@ b848a1cb-4617-4fa4-99e7-1098c026f3cf,gripping.blog,available,2.99,37.99,high,low
 493844ed-45dc-4259-a5c6-1ce417311a39,every.blog,premium,175.7,700,high,medium,5,namecheap,,,
 84896fcc-8b2d-4613-8cdc-dd8c3e9e93e6,quilting.blog,premium,646.25,,high,low,8,name.com,,,
 a876b401-765c-4326-a2f8-9fd6b40ce305,fast.blog,premium,1583.75,6250,high,medium,4,name.com,,,
-fc2b2c47-9b25-4222-9245-3a4e0313bfad,Duracell.blog,available,5.99,,high,low,8,name.com,,,
+fc2b2c47-9b25-4222-9245-3a4e0313bfad,duracell.blog,available,5.99,,high,low,8,name.com,,,
 c53b126b-e3d9-437c-ba0d-b4b3e3f8e632,togetherwith.blog,available,4.29,22.99,low,low,13,namesilo,,,
 62c91d54-5b5a-44d9-a6aa-57294e4bff4a,annualreport.blog,available,4.29,22.99,high,low,13,namesilo,,,
 0ce4fa10-e947-41a2-b3fc-f70ea6bcc816,atpeace.blog,available,4.29,22.99,high,low,8,namesilo,,,
@@ -249,7 +248,7 @@ ebe77dc2-e867-40ea-a2b5-5a71b0a561ca,fiftyfive.blog,available,2.98,32.98,low,low
 07d921dd-4e83-47d0-82e9-3a16cf5d061d,double.blog,premium,162.5,650,high,low,6,namecheap,,,
 7ed7fa5a-70ac-4217-ab96-be173f5b63df,elvis.blog,premium,160,0.99,high,low,5,namesilo,,,
 86a2c86f-0144-438c-8865-177c1b1685ef,animals.blog,premium,646.25,,medium,low,7,name.com,,,
-2076e695-7884-407f-b88f-d4a3998719bd,Pamela.blog,premium,160,640,high,low,6,namesilo,,,
+2076e695-7884-407f-b88f-d4a3998719bd,pamela.blog,premium,160,640,high,low,6,namesilo,,,
 063794f7-7b34-4519-8128-04f69a38e934,disk.blog,premium,53.92,242,high,low,4,namesilo,,,
 6024def6-51dd-4847-a143-9e9791002b42,mixing.blog,available,4.29,22.99,high,low,6,namesilo,,,
 8424ba65-8371-48a4-9590-fae1260cf3f9,vocal.blog,resell,,,high,low,5,"Spaceship, Inc.",21/02/2025 08:54,21/02/2027 23:59,
@@ -269,7 +268,7 @@ c02d00fa-a4ff-462b-a2d3-52c9a9930fe5,activating.blog,available,2.98,32.98,low,lo
 5bc66d00-784c-4809-a5a4-13ef4327f58b,resignation.blog,available,5.99,,medium,low,11,name.com,,,
 37cba5e4-b886-4064-bc7f-dcf149993bc9,aaa.blog,premium,650,2600,high,medium,3,namecheap,,,
 12320458-80b2-49b6-aa84-1371a24be739,evrything.blog,available,4.29,22.99,medium,low,9,namesilo,,,
-9ef576ac-54e0-465b-9dee-3052aff23895,Streets.blog,available,,,high,low,7,,,,
+9ef576ac-54e0-465b-9dee-3052aff23895,streets.blog,available,,,high,low,7,,,,
 93357873-0551-4617-a0e2-da10a0e8e9b3,funfair.blog,available,4.29,22.99,high,low,7,namesilo,,,
 57430497-c492-4e5b-883a-5586ac910d09,fiftyfifty.blog,available,4.29,22.99,high,low,11,namesilo,,,
 a3ea118c-b4ca-4520-8118-737d4126617f,putacross.blog,available,4.29,22.99,high,low,10,namesilo,,,
@@ -314,7 +313,7 @@ ec1342ce-cff5-4d91-b26e-eb8705824d41,comingfromyou.blog,available,4.29,22.99,hig
 cab4b451-1bbd-468e-852a-b5b6f869a4f0,ecommerce.blog,premium,15646.25,,high,low,10,name.com,,,
 d77220b2-40e4-425d-8593-f542c1e29d0b,warranty.blog,premium,70.7,280,high,low,8,namecheap,,,
 bbcc4ee0-2456-4867-b67a-6a91db910e78,comprehend.blog,available,4.29,22.99,high,low,10,namesilo,,,
-64fa30f8-90a5-4d26-9864-206857a9cebf,Netherlands.blog,available,,,medium,low,11,,,,
+64fa30f8-90a5-4d26-9864-206857a9cebf,netherlands.blog,available,,,medium,low,11,,,,
 dabaf500-d237-4471-a853-8cdc460fd5cd,cook.blog,premium,640,0.99,high,low,4,namesilo,,,
 fa6d3ca3-3fa2-4fe0-b581-ee4da09c7938,butterflykeyboard.blog,available,4.29,22.99,high,low,18,namesilo,,,
 fcdb8920-157f-42b8-8583-85379fb9afe3,add.blog,premium,1583.75,,high,low,3,name.com,,,
@@ -330,7 +329,7 @@ eae14edd-8aeb-48bf-a9eb-b7db99861274,hourly.blog,available,4.29,22.99,high,low,6
 5ea5f575-d06f-4cec-92cc-2bef790e27e4,modelt.blog,available,5.99,,high,low,7,name.com,,,
 3257c56f-85de-4c08-a8ca-738cb1be055e,bilious.blog,available,2.98,32.98,low,low,7,namecheap,,,07/08/2026 14:09
 9d5cf74c-3f85-4735-a567-55e1354c1423,gowith.blog,available,4.29,22.99,high,low,7,namesilo,,,
-3d0a745b-aced-42f3-87a7-62ff0d17fd4e,FannyAdams.blog,available,4.29,22.99,medium,low,11,namesilo,,,
+3d0a745b-aced-42f3-87a7-62ff0d17fd4e,fannyadams.blog,available,4.29,22.99,medium,low,11,namesilo,,,
 6e09daf1-748a-4693-9d24-642b7c003f5a,generally.blog,available,4.29,22.99,medium,low,9,namesilo,,,
 58da398a-88be-49f2-a6f9-93fcb54aadc8,expedition.blog,premium,160,640,high,low,10,namesilo,,,
 d259713c-dcf8-43aa-aa6b-800c7b269d80,sep.blog,premium,640,2660,high,low,3,namesilo,,,
@@ -347,7 +346,7 @@ cedcbc7b-0c1a-4703-95a2-dce83c7fcd97,searchbox.blog,available,4.29,22.99,high,lo
 360d4e37-50e9-40ee-a4b3-669ad88567ff,ahorseback.blog,available,2.98,32.98,low,low,10,namecheap,,,
 3604211a-61ab-441b-9dc6-e1ecf7394506,autacoidal.blog,available,2.98,32.98,low,low,10,namecheap,,,07/08/2026 18:31
 784c362d-1a65-42f9-a3fa-17b9efc9d931,sevenup.blog,available,5.99,,high,low,8,name.com,,,
-e1a632e7-bcea-4341-bacc-a9f24ce37476,LLP.blog,premium,640,2660,high,low,3,namesilo,,,
+e1a632e7-bcea-4341-bacc-a9f24ce37476,llp.blog,premium,640,2660,high,low,3,namesilo,,,
 4a07b1c2-6599-49ca-9258-3aa79279f04b,becoming.blog,premium,640,2660,low,low,8,namesilo,,,09/08/2026 06:08
 6d4cb7ed-3a7d-4962-854a-68a58168482e,overwhelm.blog,available,4.29,22.99,high,low,9,namesilo,,,
 cf8c72f7-ce7e-4ade-9e38-e0aa7c0abd1a,naturestudent.blog,available,4.29,22.99,low,low,14,namesilo,,,
@@ -363,7 +362,7 @@ d4209d2f-75dc-4ce9-85b1-f3827f5bc981,three.blog,premium,646.25,2500,high,low,5,n
 d5b89ea9-6182-49fc-96fb-cec606084eb5,barbaric.blog,available,2.98,32.98,low,low,8,namecheap,,,08/08/2026 15:31
 b561bfc3-7608-457b-8bfd-fc0d4e1431a5,respectively.blog,available,4.29,22.99,medium,low,12,namesilo,,,
 a9e70728-e221-480d-8c35-d2c748c51de6,director.blog,premium,160,640,high,low,8,namesilo,,,
-9f7aa5a1-45a0-4fa2-9199-33e9307d8e7c,distribution.blog,premium,53.92,242,medium,low,12,namesilo,,,14/09/2026 02:25
+9f7aa5a1-45a0-4fa2-9199-33e9307d8e7c,distribution.blog,premium,53.92,242,low,low,12,namesilo,,,19/09/2026 09:11
 372c4e21-1a52-4b9b-9fd6-93607aaf9523,mat.blog,premium,1582.5,6250,medium,low,3,name.com,,,08/09/2026 07:48
 2c669dff-44b1-4f91-aa56-66c8b90d0257,banner.blog,premium,160,640,low,low,6,namesilo,,,08/08/2026 13:53
 2b7316d8-0b92-4570-9acd-428e21aad205,sestet.blog,available,2.98,32.98,low,low,6,namecheap,,,
@@ -374,7 +373,7 @@ a11ee58f-c552-4602-93e2-30bd5e797066,word.blog,premium,15646.25,,high,low,4,name
 4e2c2f7c-cb31-459f-b4fd-8011ea50cf21,normality.blog,available,5.99,,high,low,9,name.com,,,
 d0aa6ece-65fd-458a-a1f0-13ec8b224ea5,establishmentgrowth.blog,available,4.29,22.99,medium,low,20,namesilo,,,
 728a07e2-6d4f-467c-b3c4-3fab413d0707,soup.blog,premium,160,640,high,low,4,namesilo,,,
-eef2f8b1-ca09-4cea-b0c9-3aa2908e4af4,Points.blog,premium,160,640,medium,low,6,namesilo,,,
+eef2f8b1-ca09-4cea-b0c9-3aa2908e4af4,points.blog,premium,160,640,medium,low,6,namesilo,,,
 d4a6f265-d3bd-4c9b-8003-ac5468c7c240,apocrine.blog,available,2.98,32.98,low,low,8,namecheap,,,06/08/2026 01:05
 219d8b31-d507-434e-bff7-8167fcc614c8,erase.blog,available,4.29,22.99,high,low,5,namesilo,,,
 6728ced9-1d5e-49c7-aa13-6d8f0377b7b1,firstaid.blog,premium,53.92,242,high,low,9,namesilo,,,
@@ -417,7 +416,7 @@ dc8de76e-fb54-4d88-b10c-75c1f013f344,seeming.blog,available,4.29,22.99,high,low,
 e53315d5-0ee8-4b23-aa14-34034734f4c1,pricelist.blog,available,5.99,,medium,low,10,name.com,,,
 4745bbb0-8ef3-4f1b-a122-6d4a31d05d36,anile.blog,available,2.98,32.98,low,low,5,namecheap,,,
 73e36869-3320-4556-bc0a-bce0dfab9b15,appropriately.blog,available,4.29,22.99,medium,low,13,namesilo,,,
-710c33ed-2db8-434c-9ed2-c8d7ecf8717c,Katy.blog,premium,175.7,700,high,low,4,namecheap,,,
+710c33ed-2db8-434c-9ed2-c8d7ecf8717c,katy.blog,premium,175.7,700,high,low,4,namecheap,,,
 b8f6cbdf-a110-4f5c-9905-986e953d6fec,debate.blog,premium,162.5,650,high,low,6,namecheap,,,
 86ad3660-70bb-4483-a34b-48188fcd1214,revelation.blog,resell,,,medium,low,10,"Spaceship, Inc.",22/10/2025 20:27,22/10/2026 20:27,
 df85ba0b-64a6-4d3d-8872-efa3f8603a4f,xxxvi.blog,available,2.98,32.98,low,low,5,namecheap,,,
@@ -454,7 +453,7 @@ a73c60d5-40ae-4db9-8169-db3861bde1c4,province.blog,premium,70.7,280,medium,low,8
 623b1fbe-af2b-41e6-ab48-2c3a5944c3e4,powerstrip.blog,available,4.29,22.99,high,low,11,namesilo,,,
 21205312-5b8b-4b34-ad7d-2aee83291928,successor.blog,available,5.99,,medium,low,9,name.com,,,
 cb8179dc-1ab0-4dfa-bf6d-a68de5e6c51c,attract.blog,premium,53.92,242,high,low,7,namesilo,,,
-9700950d-5b78-40e7-b3b1-79af51275259,Gregor.blog,premium,53.92,242,medium,low,6,namesilo,,,
+9700950d-5b78-40e7-b3b1-79af51275259,gregor.blog,premium,53.92,242,medium,low,6,namesilo,,,
 56b61950-57b1-4d0d-95cb-ac1cf212f62f,lake.blog,premium,640,2660,high,low,4,namesilo,,,
 df203fd7-044d-4514-a864-0bffa756106b,cordlesstelephone.blog,available,4.29,22.99,high,low,18,namesilo,,,
 30730598-b265-45fa-8b0e-0e9cb3cd13f2,dentist.blog,premium,640,2660,high,low,7,namesilo,,,
@@ -501,7 +500,7 @@ aa97f9d5-152d-479b-8ffa-02c2ef4d606c,invented.blog,available,4.29,22.99,high,low
 fae5d9ca-a32b-43fe-90e8-5b6e05d0e73d,onthepointof.blog,available,4.29,22.99,medium,low,15,namesilo,,,
 a769f481-52a4-4448-91fc-fa5cfbb260c8,bestpractice.blog,available,4.29,22.99,high,low,13,namesilo,,,
 5b34147e-7cf4-4024-975f-71665654a17a,unlike.blog,available,4.29,22.99,high,low,6,namesilo,,,
-34460d9d-7306-4943-bb5b-903f65142bdc,options.blog,premium,160,640,low,low,7,namesilo,,,08/09/2026 07:10
+34460d9d-7306-4943-bb5b-903f65142bdc,options.blog,premium,160,640,low,low,7,namesilo,,,19/09/2026 14:29
 921a7aa1-d45c-4934-8a4c-b2c30577cb17,antiviral.blog,available,,,high,low,9,,,,
 8a1a2165-0c81-418a-908b-1cd5ec2238a4,getwrong.blog,available,4.29,22.99,medium,low,9,namesilo,,,
 bdc08775-4718-4215-9bee-95590a9606e6,normally.blog,available,4.29,22.99,medium,low,8,namesilo,,,
@@ -550,10 +549,10 @@ c2a1e4a9-298a-4700-b6e6-2f006d8eeecd,gearchange.blog,available,4.29,22.99,high,l
 76cc0aa8-1a4a-4e84-9126-c1a9fc12358f,sweetandsour.blog,available,4.29,22.99,high,low,14,namesilo,,,
 6dca10f8-b3be-4c61-8845-85972795bf60,acarpelous.blog,available,2.98,32.98,low,low,10,namecheap,,,
 ae9b57c6-74e4-4dfc-9ce2-47ffd0c85116,stepmother.blog,available,5.99,,medium,low,10,name.com,,,
-d383b8cc-a247-4743-968c-60f7a89b634a,cup.blog,premium,1625,6500,medium,low,3,namecheap,,,08/09/2026 16:35
+d383b8cc-a247-4743-968c-60f7a89b634a,cup.blog,premium,1662.5,6900,medium,low,3,namesilo,,,19/09/2026 14:42
 0057747e-276e-497e-8fcb-bd2037df44d2,anoestrous.blog,available,2.98,32.98,low,low,10,namecheap,,,
 776df2af-5ddc-4b78-912b-b4465f86fe61,artofthepossible.blog,available,4.29,22.99,medium,low,19,namesilo,,,
-a59826f8-77de-4b1a-a5b8-dcc3d1b03ec6,SouthAmerican.blog,available,5.99,,low,low,14,name.com,,,
+a59826f8-77de-4b1a-a5b8-dcc3d1b03ec6,southamerican.blog,available,5.99,,low,low,14,name.com,,,
 c5a34070-1e91-489b-b235-4f1628ebf91b,gotothetoilet.blog,available,4.29,22.99,medium,low,16,namesilo,,,
 ba364460-40bb-4b76-a858-9ff605daf848,lastly.blog,available,5.99,,medium,low,6,name.com,,,
 9c456614-0637-4e42-937b-7605f11d72ca,lang.blog,premium,160,640,high,low,4,namesilo,,,
@@ -566,9 +565,9 @@ b01e72ce-879b-44a1-a786-8041a54284bf,appeasable.blog,available,2.98,32.98,low,lo
 dd2c3b48-8640-4435-a768-fb29e90d1ca1,antecedent.blog,available,2.98,32.98,low,low,10,namecheap,,,
 499093ab-4f1e-4393-b3a2-3ee1da312bcc,agnatic.blog,available,2.98,32.98,low,low,7,namecheap,,,
 c55104ca-711a-47a3-abf5-f08d363b5bbd,ambivalent.blog,available,2.98,32.98,low,low,10,namecheap,,,
-21dafa14-b466-4a3b-85b6-8bb9cdd537cf,BlackDeath.blog,available,4.29,22.99,low,low,11,namesilo,,,
+21dafa14-b466-4a3b-85b6-8bb9cdd537cf,blackdeath.blog,available,4.29,22.99,low,low,11,namesilo,,,
 b6eb7e50-361b-4d1c-bca0-42c5272199b4,algoid.blog,available,2.98,32.98,low,low,6,namecheap,,,
-fd15d920-ac22-4f61-9cd8-94b73eb6414b,think.blog,premium,640,2660,medium,medium,5,namesilo,,,15/09/2026 03:47
+fd15d920-ac22-4f61-9cd8-94b73eb6414b,think.blog,premium,640,2660,medium,low,5,namesilo,,,19/09/2026 06:38
 e3245dd2-b11e-4cfd-9423-1138a38e07dc,eightieth.blog,available,2.98,32.98,low,low,9,namecheap,,,
 85ea4f8f-baa7-4d42-9dbf-f76d72386849,intrinsic.blog,available,4.29,22.99,high,low,9,namesilo,,,
 81a6d775-970a-4a20-8ab3-89fb30b39f19,lizard.blog,premium,53.92,242,medium,low,6,namesilo,,,
@@ -592,7 +591,7 @@ a2325001-1b9d-434b-8140-882b4ec54a46,tours.blog,premium,646.25,,high,low,5,name.
 39e7d330-c324-467a-b9ae-0a7ed60735fd,basipetal.blog,available,2.98,32.98,low,low,9,namecheap,,,08/08/2026 22:43
 37d86526-0ec5-45b7-a10e-0dc4f7a46c0e,aeonian.blog,available,2.98,32.98,low,low,7,namecheap,,,
 d28f1105-d62b-4d6f-bb92-cac429a378d4,akimbo.blog,available,,,medium,low,6,,,,
-1aed60ca-9c73-456a-94c5-5d830bcc973f,Californian.blog,available,4.29,22.99,high,low,11,namesilo,,,
+1aed60ca-9c73-456a-94c5-5d830bcc973f,californian.blog,available,4.29,22.99,high,low,11,namesilo,,,
 16f9d3fd-4265-4f43-833d-c02a7b7c4dfd,inch.blog,premium,160,0.99,medium,low,4,namesilo,,,
 910dd087-9d4d-43f8-b6d4-212489d06b9e,clitlicker.blog,available,4.29,22.99,medium,low,10,namesilo,,,
 c72cd5d6-ffde-4a36-ad5d-0263b79a6cf7,windowseat.blog,available,4.29,22.99,high,low,11,namesilo,,,
@@ -601,7 +600,6 @@ c72cd5d6-ffde-4a36-ad5d-0263b79a6cf7,windowseat.blog,available,4.29,22.99,high,l
 1e9e6ffd-dfd5-4a09-8b10-02bd7b15e5d5,won.blog,premium,640,0.99,high,low,3,namesilo,,,
 e74555ec-4c49-4359-9abf-168859c3c74a,antiphonal.blog,available,2.98,32.98,low,low,10,namecheap,,,
 cb9382da-06b7-4550-975d-6c337c030db8,lend.blog,premium,160,640,high,low,4,namesilo,,,
-2df13c55-4cba-4b48-b468-6da027606630,usual.blog,resell,,,high,low,5,"eNom, Inc.",01/08/2025 20:06,01/08/2026 20:06,
 9ae39e39-4183-409a-859f-8ef09ff5e900,rein.blog,premium,160,640,high,low,4,namesilo,,,
 e412a614-4d73-4f57-8ce8-facf8a7c3e18,invisible.blog,premium,160,0.99,high,low,9,namesilo,,,
 039d72a4-bd71-48a0-8eff-4f717c718a41,rootabout.blog,available,4.29,22.99,low,low,10,namesilo,,,
@@ -620,7 +618,7 @@ f731879f-0aa0-4056-b316-1db72c9e00a5,attheriskof.blog,available,5.99,,medium,low
 939a112d-2ccc-4932-84b7-46f7d58cd1ca,jewish.blog,premium,160,0.99,high,low,6,namesilo,,,
 c2879022-2feb-4446-b3d3-f85564cda243,rubelbows.blog,available,5.99,,low,low,10,name.com,,,
 3701e597-d7f6-4a05-a607-afcf51a3b24f,commonmarket.blog,available,4.29,22.99,medium,low,13,namesilo,,,
-0d84906b-dee4-46f1-bde0-33fd6c5d9605,Jewnose.blog,available,5.99,,medium,low,8,name.com,,,
+0d84906b-dee4-46f1-bde0-33fd6c5d9605,jewnose.blog,available,5.99,,medium,low,8,name.com,,,
 b4070d73-5961-48c3-8e54-0a340d87fd7c,televisionprogram.blog,available,4.29,22.99,high,low,18,namesilo,,,
 da4f0157-7762-4073-bd28-17b151c7b41e,leak.blog,premium,160,640,medium,low,4,namesilo,,,
 3b80d6fd-2a20-4a1b-9aa6-00bdd233706f,breakoutroom.blog,available,4.29,22.99,medium,low,13,namesilo,,,
@@ -645,15 +643,15 @@ fa8382d1-79a4-402c-9873-f121ab57c12e,rescue.blog,premium,160,640,high,low,6,name
 448b861a-3aae-4ba2-851a-e5d14c530551,turnloose.blog,available,5.99,,low,low,10,name.com,,,
 91931456-6b98-44a5-9ecd-3a9d48241642,acetonic.blog,available,2.98,32.98,low,low,8,namecheap,,,
 04a841d6-075e-42e8-b366-a7e3cf4e8284,fruit.blog,premium,640,2660,high,low,5,namesilo,,,
-a5910a62-b37e-40a5-a38d-aee72bd96bd5,WestEnd.blog,available,4.29,22.99,medium,low,8,namesilo,,,
-48af56b6-fc6a-4192-8564-02d14454601f,hot.blog,premium,3250,13000,medium,medium,3,namecheap,,,12/09/2026 10:33
+a5910a62-b37e-40a5-a38d-aee72bd96bd5,westend.blog,available,4.29,22.99,medium,low,8,namesilo,,,
+48af56b6-fc6a-4192-8564-02d14454601f,hot.blog,premium,3450,13800,medium,low,3,namesilo,,,19/09/2026 15:25
 9147a4fd-c43d-4c8a-9472-6afc49d94121,accented.blog,available,2.98,32.98,low,low,8,namecheap,,,
 81223f02-ee4d-4ee3-a301-dccf4514a9a6,fuel.blog,premium,160,640,high,low,4,namesilo,,,
 9f1f82a0-dc55-4098-9251-e57b9ecd7386,adviseable.blog,available,4.29,22.99,medium,low,10,namesilo,,,
 2c6f531a-14aa-4e7e-8591-8d050971b60a,ensure.blog,available,4.29,22.99,high,low,6,namesilo,,,
 ee6c1bd4-face-4a23-a731-9e71d4ad7a30,blanket.blog,available,2.98,32.98,medium,low,7,namecheap,,,08/09/2026 07:17
 6918ee35-51e0-4f78-a8eb-c316f145ab5a,aculeated.blog,available,2.98,32.98,low,low,9,namecheap,,,
-6d8b9e57-fbe5-408c-9262-aaa869b9d299,UnitedKingdom.blog,available,,,low,low,14,,,,
+6d8b9e57-fbe5-408c-9262-aaa869b9d299,unitedkingdom.blog,available,,,low,low,14,,,,
 b2a139fb-2346-4bcd-a73a-670da766cf4b,dragrace.blog,available,4.29,22.99,high,low,9,namesilo,,,
 ce794e50-5b8c-4506-8f65-b863d64aa03a,loved.blog,premium,53.92,0.99,high,low,5,namesilo,,,
 d9eb8541-918c-4eb1-b9d4-b00a170d1d9b,onemoment.blog,available,4.29,22.99,high,low,10,namesilo,,,
@@ -671,11 +669,11 @@ d7bdff04-5264-41a8-9ddc-158d6fb2e37d,letthecatout.blog,available,4.29,22.99,high
 b1009067-4927-4a28-becf-1451bf138b70,nitrous.blog,available,2.98,32.98,low,low,7,namecheap,,,08/08/2026 03:03
 dbc89eac-2cc2-467b-a9e5-3b8ae214c301,fix.blog,premium,1583.75,,medium,low,3,name.com,,,
 c78af491-a18b-43fa-836b-b4255ed7a277,clever.blog,premium,160,0.99,high,low,6,namesilo,,,
-632325a8-f58f-4f77-8627-0c47bc130a47,system.blog,premium,650,2600,medium,medium,6,namecheap,,,13/09/2026 19:53
+632325a8-f58f-4f77-8627-0c47bc130a47,system.blog,premium,640,2660,medium,low,6,namesilo,,,19/09/2026 08:26
 b049348c-bc02-4680-8ed4-5e1d5cc60b6f,gaffer.blog,available,2.98,32.98,low,low,6,namecheap,,,
 9c05776e-10d7-41a4-95eb-a681ed03e861,spanish.blog,premium,640,0.99,medium,low,7,namesilo,,,
 ca7d586e-7126-406c-b391-6c9111522b8c,complex.blog,premium,65,260,high,low,7,namecheap,,,
-3116abad-1a42-4c59-b093-c8b47c0b7ee2,RedNoseDay.blog,available,5.99,,low,low,12,name.com,,,
+3116abad-1a42-4c59-b093-c8b47c0b7ee2,rednoseday.blog,available,5.99,,low,low,12,name.com,,,
 36dc8501-0b10-4fa7-98fc-9d6d31cb089c,lxxviii.blog,available,2.98,32.98,low,low,7,namecheap,,,
 d7524ded-78cb-4027-906e-6cac4742e01b,ohmyfuck.blog,available,5.99,,medium,low,10,name.com,,,
 5dab9ab0-3280-4ce0-9e49-c202ca37f92a,nomnomnom.blog,available,4.29,22.99,high,low,11,namesilo,,,
@@ -683,12 +681,12 @@ d7524ded-78cb-4027-906e-6cac4742e01b,ohmyfuck.blog,available,5.99,,medium,low,10
 643c7617-111a-4135-a130-7e6e752466bf,log.blog,premium,1583.75,,high,low,3,name.com,,,
 78e6892a-aaf6-4fcd-83d0-2e6b8e690433,agree.blog,available,4.29,22.99,high,low,5,namesilo,,,
 61ecd180-4687-4bf6-b953-857a65af1c38,xlvi.blog,available,2.98,32.98,low,low,4,namecheap,,,
-13c2ebc1-13a4-445b-972c-389cde187b04,commercial.blog,premium,162.5,650,high,low,10,namecheap,,,
+13c2ebc1-13a4-445b-972c-389cde187b04,commercial.blog,premium,162.5,650,medium,low,10,namecheap,,,19/09/2026 10:28
 89fb23f5-7649-414f-9125-83f8c883ff26,fullgrown.blog,available,2.98,32.98,low,low,10,namecheap,,,
 8dea1046-3b0c-4c99-a144-30bb1de9e98c,butthen.blog,available,4.29,22.99,medium,low,8,namesilo,,,
 7a2f950c-1f1b-4cc5-93b7-0472c6cbecec,youthink.blog,available,4.29,22.99,low,low,9,namesilo,,,
 c2ca9c36-fb8e-412a-bc55-030dd6efdf80,saveas.blog,available,4.29,22.99,medium,low,7,namesilo,,,
-1cc69c49-73df-4e3e-acaa-5a781010689c,PubMed.blog,available,4.29,22.99,high,low,6,namesilo,,,
+1cc69c49-73df-4e3e-acaa-5a781010689c,pubmed.blog,available,4.29,22.99,high,low,6,namesilo,,,
 8b652f78-5921-4586-861c-5e1897d96440,low.blog,premium,646.25,2500,high,low,3,name.com,,,
 7798f01c-cc42-4159-ab95-1207501dca40,alltime.blog,available,2.99,37.99,high,low,8,name.com,,,
 087893bc-e10d-42d1-8744-8bf997d2b738,thirdclass.blog,available,4.29,22.99,low,low,11,namesilo,,,
@@ -699,9 +697,9 @@ ba720ae7-6860-447a-95db-b2eb75a2a8a8,through.blog,resell,5.99,,high,low,7,"Space
 a74db7f3-a5e0-41db-9f3f-2c7c721584ac,facing.blog,available,4.29,22.99,high,low,6,namesilo,,,
 a9c96a05-b8de-49ed-a702-415caf590c05,pressing.blog,available,4.29,22.99,high,low,8,namesilo,,,
 579048fb-3ba0-44e0-8ae0-350935234838,progression.blog,available,5.99,,medium,low,11,name.com,,,
-2f704c25-8541-4646-b197-0896657aa09a,Christmascard.blog,available,4.29,22.99,high,low,14,namesilo,,,
+2f704c25-8541-4646-b197-0896657aa09a,christmascard.blog,available,4.29,22.99,high,low,14,namesilo,,,
 2e1ae6d0-841b-46fe-935d-cec05e28e6de,basaltic.blog,available,2.98,32.98,low,low,8,namecheap,,,08/08/2026 21:29
-01bac549-e836-4d11-a7f3-9a04547451d4,Olympicflame.blog,available,4.29,22.99,high,low,13,namesilo,,,
+01bac549-e836-4d11-a7f3-9a04547451d4,olympicflame.blog,available,4.29,22.99,high,low,13,namesilo,,,
 94fcefd2-8c38-4ab1-9c97-5757ac8435eb,schmaltzy.blog,available,2.98,32.98,low,low,9,namecheap,,,09/08/2026 01:04
 b25a9aa2-3500-4360-b98e-f5898a78b370,dismissed.blog,available,2.99,37.99,medium,low,9,name.com,,,
 690cf125-eb9e-47d6-8294-f46927a6cde4,duplicate.blog,available,2.99,37.99,high,low,9,name.com,,,
@@ -709,12 +707,12 @@ b25a9aa2-3500-4360-b98e-f5898a78b370,dismissed.blog,available,2.99,37.99,medium,
 f4ac9345-c671-44c7-9692-d7804a1f2517,pleasure.blog,premium,70.7,280,high,low,8,namecheap,,,
 c5f609c6-5746-4fa6-8fd1-234f82359e74,veteran.blog,premium,160,0.99,high,low,7,namesilo,,,
 21b237f3-3bcd-4b41-8940-1a192390ab6f,actiongame.blog,available,4.29,22.99,high,low,11,namesilo,,,
-a639cac9-5520-4ff8-b245-35f0dae60182,Eid.blog,premium,640,2660,high,low,3,namesilo,,,
+a639cac9-5520-4ff8-b245-35f0dae60182,eid.blog,premium,640,2660,high,low,3,namesilo,,,
 206457e2-8b4f-405c-b72d-7553c97a58d6,apodal.blog,available,2.98,32.98,low,low,6,namecheap,,,06/08/2026 01:16
 37b37933-d54d-4335-8139-72d73e9b4c2f,range.blog,premium,53.92,0.99,medium,low,5,namesilo,,,
-ab390eea-61a3-4dac-9749-5c0a2bce2bcc,Carribean.blog,available,4.29,22.99,high,low,9,namesilo,,,
+ab390eea-61a3-4dac-9749-5c0a2bce2bcc,carribean.blog,available,4.29,22.99,high,low,9,namesilo,,,
 c2ed1610-e969-4291-a2cd-a9ca8ae6000a,comparatively.blog,available,4.29,22.99,medium,low,13,namesilo,,,
-33b27e08-3312-4bec-b203-e17f336484aa,weight.blog,premium,160,640,low,low,6,namesilo,,,15/09/2026 06:16
+33b27e08-3312-4bec-b203-e17f336484aa,weight.blog,premium,162.5,650,low,low,6,namecheap,,,19/09/2026 19:07
 8bcc311c-27a3-491a-b292-a8a2e3d1c417,cordial.blog,available,2.99,37.99,high,low,7,name.com,,,
 f20e1762-3e18-4995-8b22-bfd5b706a80d,hungry.blog,premium,160,0.99,high,low,6,namesilo,,,
 ba4b321f-170d-493f-811c-3a5915c2773d,copewith.blog,available,4.29,22.99,high,low,9,namesilo,,,
@@ -732,8 +730,8 @@ e4000a5a-a219-4fbe-8d73-9e0293ef50a1,amidships.blog,available,2.98,32.98,low,low
 ed63a195-e3ba-4b52-9743-04c49e9e77da,field.blog,premium,160,0.99,medium,low,5,namesilo,,,
 c3b3f483-bdb6-4507-bbb7-7b7cfae529c0,bearish.blog,available,2.98,32.98,low,low,7,namecheap,,,09/08/2026 04:48
 1ddab469-eff3-49b2-87a0-df65273f719c,prototypic.blog,available,2.98,32.98,low,low,10,namecheap,,,06/08/2026 15:42
-66e17076-2bb3-421d-b263-5670b6fd8657,relief.blog,premium,160,640,medium,low,6,namesilo,,,14/09/2026 01:46
-0199b191-6216-49da-aff3-ea6b9887fa0a,Eddie.blog,premium,640,2660,high,low,5,namesilo,,,
+66e17076-2bb3-421d-b263-5670b6fd8657,relief.blog,premium,160,640,medium,low,6,namesilo,,,19/09/2026 08:39
+0199b191-6216-49da-aff3-ea6b9887fa0a,eddie.blog,premium,640,2660,high,low,5,namesilo,,,
 93f69607-2725-4b5c-a14e-a79fab29ff1f,avon.blog,available,4.29,22.99,high,low,4,namesilo,,,
 ec4408e3-82f5-4ca1-b7c1-f7976f69dc34,anarchic.blog,available,2.98,32.98,low,low,8,namecheap,,,
 da2acbaa-3061-42d3-840e-8fbf54f42b9c,continual.blog,available,2.99,37.99,medium,low,9,name.com,,,
@@ -781,7 +779,7 @@ d3cab861-7aa5-45c7-b4e5-11b985efe443,anarchical.blog,available,2.98,32.98,low,lo
 1838bcaf-6117-4ffa-bf48-bc49d8c3e1d5,comeby.blog,available,4.29,22.99,high,low,7,namesilo,,,
 a7120b6b-391b-46d2-a965-b9a88748631e,moneyeconomy.blog,available,4.29,22.99,high,low,13,namesilo,,,
 b61c08c3-c0a6-426e-811a-9032aeaea963,generalpurpose.blog,available,4.29,22.99,medium,low,15,namesilo,,,
-45509517-4c23-4e28-a1ea-cfc560761196,GermanReich.blog,available,4.29,22.99,medium,low,12,namesilo,,,
+45509517-4c23-4e28-a1ea-cfc560761196,germanreich.blog,available,4.29,22.99,medium,low,12,namesilo,,,
 43cda85e-5a93-4704-ac8b-46e0f8dd2719,staring.blog,available,2.99,37.99,medium,low,7,name.com,,,
 f0677bfd-9bdb-4403-bfbf-770ffd02e44d,starchlike.blog,available,2.98,32.98,low,low,10,namecheap,,,
 9f216f4b-134a-4efc-a8fd-043ced6b5466,ninetysix.blog,available,2.98,32.98,low,low,10,namecheap,,,
@@ -798,7 +796,7 @@ bbedbc5c-1db5-4c84-a738-7d1f35df52ed,take.blog,premium,160,0.99,high,low,4,names
 3dab31e6-035c-4607-9d99-6a6188b5432e,careful.blog,premium,53.92,0.99,high,low,7,namesilo,,,
 ffb2eb9b-7631-4056-9ba0-b469cd8a932a,make.blog,premium,15646.25,,high,medium,4,name.com,,,
 51fe7a28-faf6-4af3-aeda-3b4f4612c27d,doublecheck.blog,available,4.29,22.99,high,low,12,namesilo,,,
-6ec8bba6-a046-4108-8e37-e7588bd03e50,computer.blog,premium,640,2660,medium,low,8,namesilo,,,14/09/2026 03:44
+6ec8bba6-a046-4108-8e37-e7588bd03e50,computer.blog,premium,640,2660,medium,low,8,namesilo,,,19/09/2026 07:18
 f3500be4-b884-4b20-8e83-a5935fd6afd3,yuck.blog,available,4.29,22.99,high,low,4,namesilo,,,
 e359c152-ee9f-4acf-a384-ba945238caf7,bareass.blog,available,2.98,32.98,low,low,8,namecheap,,,08/08/2026 18:10
 0393aec4-4793-4af6-b843-6b83ce27e661,apopemptic.blog,available,2.98,32.98,low,low,10,namecheap,,,06/08/2026 02:22
@@ -819,7 +817,7 @@ e3987dc9-de09-4371-8c8c-dbd2a30a5906,nighttime.blog,premium,53.92,242,medium,low
 6767237f-a8ae-4dcf-a07b-a2d0bf2db21a,vodka.blog,premium,640,2660,high,low,5,namesilo,,,
 bab67098-1f26-40bf-b98d-6fefd71195ea,artificial.blog,resell,,,high,low,10,Dynadot LLC,24/01/2026 10:54,24/01/2027 10:54,
 577691a3-218a-47cf-a7b0-50c76a323bd7,yearbook.blog,premium,160,640,high,low,8,namesilo,,,
-c5bd87b5-de1b-406c-ba9f-55aacc0e653d,PeaceCorps.blog,available,4.29,22.99,low,low,11,namesilo,,,
+c5bd87b5-de1b-406c-ba9f-55aacc0e653d,peacecorps.blog,available,4.29,22.99,low,low,11,namesilo,,,
 34f41e8f-2420-4c3b-8f88-6830cac35293,families.blog,available,,,medium,low,8,,,,
 b83d0945-2dd5-431e-ae6a-534b21725314,dismayed.blog,available,2.98,32.98,low,low,8,namecheap,,,
 b9547a6f-2466-4e5a-b806-e16c419fd864,giveitup.blog,available,4.29,22.99,high,low,10,namesilo,,,
@@ -830,27 +828,27 @@ b2467e70-ec0e-4b05-aced-36f392999607,fiftyone.blog,available,2.98,32.98,low,low,
 681328c1-c303-463e-8def-dfd890160c53,xxxviii.blog,available,2.98,32.98,low,low,7,namecheap,,,
 e5a8b479-8aa0-434b-8865-2647c57076f9,repeated.blog,available,4.29,22.99,medium,low,8,namesilo,,,
 bc87c535-dfd0-4c44-9903-bc07a8c85922,gardencentre.blog,available,4.29,22.99,high,low,13,namesilo,,,
-6b947d06-8626-47b9-80e7-27f6fede8d5b,grandparent.blog,premium,53.92,242,medium,low,11,namesilo,,,15/09/2026 07:07
+6b947d06-8626-47b9-80e7-27f6fede8d5b,grandparent.blog,premium,53.92,242,medium,low,11,namesilo,,,19/09/2026 04:27
 f7a59b80-c1ae-4b69-ae8b-05b6578c5b89,havingsaidthat.blog,available,4.29,22.99,medium,low,16,namesilo,,,
 4bcf5462-b5aa-40e1-9d93-f3a8bb9767f3,goal.blog,premium,640,2660,high,low,4,namesilo,,,
 734d6359-e22e-4fa6-8a36-749d9f34d8a4,interviewee.blog,available,4.29,22.99,medium,low,11,namesilo,,,
 6003849f-da31-4b8b-b5f8-44ba15bc6be5,unjustified.blog,available,4.29,22.99,medium,low,11,namesilo,,,
 e621d6bc-4983-445a-bf68-c9ff52a6de56,wordis.blog,available,4.29,22.99,low,low,7,namesilo,,,
-fbffa0ea-6643-417a-8b81-4205c0dd2b4d,Trumpian.blog,available,4.29,22.99,high,low,8,namesilo,,,
+fbffa0ea-6643-417a-8b81-4205c0dd2b4d,trumpian.blog,available,4.29,22.99,high,low,8,namesilo,,,
 961a76a7-f8fb-467e-abb4-cfc5a68990b4,fine.blog,premium,162.5,650,high,low,4,namecheap,,,
 7634215a-1b46-445e-b89e-496a4a3b4789,worked.blog,available,4.29,22.99,low,low,6,namesilo,,,
 fe8b7716-a98c-491d-89a2-08655cd44611,aguish.blog,available,2.98,32.98,low,low,6,namecheap,,,
 05aacb4f-8946-4fae-8606-e3b16b5901ec,takepart.blog,premium,53.92,242,medium,low,9,namesilo,,,
 22fed280-4c57-4c39-accc-d2f87a359d63,amitotic.blog,available,2.98,32.98,low,low,8,namecheap,,,
-51e45c54-5e27-41d1-a8cf-751269ec3c33,party.blog,premium,640,2660,medium,low,5,namesilo,,,14/09/2026 05:45
+51e45c54-5e27-41d1-a8cf-751269ec3c33,party.blog,premium,640,2660,medium,low,5,namesilo,,,19/09/2026 09:39
 0214509c-6698-4524-b3ee-d8e5adff1081,awake.blog,resell,,,high,low,5,"Spaceship, Inc.",06/12/2025 21:34,06/12/2026 21:34,
 b37c7768-c74c-434b-8184-36f521764069,popcornmovie.blog,available,4.29,22.99,high,low,13,namesilo,,,
-41ba51c6-8dba-45a6-b809-533bc0791c0a,Ionlyworkhere.blog,available,4.29,22.99,medium,low,16,namesilo,,,
+41ba51c6-8dba-45a6-b809-533bc0791c0a,ionlyworkhere.blog,available,4.29,22.99,medium,low,16,namesilo,,,
 37c501da-d2e6-4ca5-890f-9003f9c9552e,nostrilhair.blog,available,5.99,,low,low,12,name.com,,,
 cddc93c0-56f4-491e-a0f8-3531efc69823,tightenup.blog,available,4.29,22.99,medium,low,10,namesilo,,,
 4df9e11f-bd8d-4707-99dd-74e01af1665d,fouled.blog,available,2.98,32.98,low,low,6,namecheap,,,
 5dc8466f-e1ef-4dc1-8e00-50598a1543ed,gingerbreadman.blog,available,4.29,22.99,high,low,15,namesilo,,,
-4e8181ae-91c4-4a4d-8bdd-41faa99757ed,SSI.blog,premium,160,640,high,low,3,namesilo,,,
+4e8181ae-91c4-4a4d-8bdd-41faa99757ed,ssi.blog,premium,160,640,high,low,3,namesilo,,,
 32255399-a147-4a70-8141-317c47755efd,formalize.blog,available,4.29,22.99,high,low,9,namesilo,,,
 9cdfcecc-ee79-49d5-a8c7-607b22bdb1fa,yeasty.blog,available,2.98,32.98,low,low,6,namecheap,,,08/08/2026 19:56
 09d4ca33-17de-4d76-890a-2bec77169e00,theseones.blog,available,4.29,22.99,low,low,10,namesilo,,,
@@ -879,10 +877,10 @@ d580ed07-02d8-49f8-93c4-5a97a71ec9da,loosely.blog,available,4.29,22.99,medium,lo
 ea8effa9-199c-4b30-ae51-b0d9f5cff561,kitchensink.blog,available,4.29,22.99,medium,low,12,namesilo,,,
 66a8c5cd-7c21-4721-9981-411a3c95d6c5,adapted.blog,available,2.99,37.99,high,low,7,name.com,,,
 1793a732-76e2-4063-8b10-2d541ebe8ef4,lxvi.blog,available,2.98,32.98,low,low,4,namecheap,,,
-dc67e049-a15a-4151-926d-3e72a55d55c1,MasterofArts.blog,available,4.29,22.99,medium,low,14,namesilo,,,
+dc67e049-a15a-4151-926d-3e72a55d55c1,masterofarts.blog,available,4.29,22.99,medium,low,14,namesilo,,,
 943debad-bdf1-499b-a9ef-bee10211b7df,norfolk.blog,premium,70.7,280,high,low,7,namecheap,,,
 79513785-0abe-4020-bcd6-59c8e80ab2bd,hockeyplayer.blog,available,5.99,,high,low,13,name.com,,,
-267e7c3f-bdc5-4d42-b18d-14e78284c3a8,chiefly.blog,available,2.98,32.98,low,low,7,namecheap,,,14/09/2026 09:34
+267e7c3f-bdc5-4d42-b18d-14e78284c3a8,chiefly.blog,available,2.98,32.98,low,low,7,namecheap,,,20/09/2026 23:12
 bf3ffb64-bf6f-4dad-ac85-9be1b2e2b0dc,squirrel.blog,premium,53.92,242,high,low,8,namesilo,,,
 f43a793f-b26a-4047-89b1-69029ec38a49,fuckster.blog,available,4.29,22.99,medium,low,8,namesilo,,,
 0df654dd-892d-4c8b-9f66-ae4f86ee476a,albanian.blog,premium,640,2660,low,low,8,namesilo,,,
@@ -918,7 +916,7 @@ f2d06c97-ee4c-4fb8-9f35-74e76b20f1ac,guide.blog,premium,15646.25,,high,low,5,nam
 a42dde0a-8f9b-4885-81cc-d826da2bd1a1,baking.blog,premium,640,0.99,high,low,6,namesilo,,,
 7fc505ea-1948-4496-a88b-afb03fa958eb,abulic.blog,available,2.98,32.98,low,low,6,namecheap,,,
 7d458776-af00-40e9-8065-7269f9448023,pinging.blog,available,4.29,22.99,high,low,7,namesilo,,,
-955b9982-4ebb-4a96-92d1-89596514f91a,Instagrammable.blog,available,4.29,22.99,high,low,14,namesilo,,,
+955b9982-4ebb-4a96-92d1-89596514f91a,instagrammable.blog,available,4.29,22.99,high,low,14,namesilo,,,
 f44886b3-58ae-414d-ba28-d20ca90b8da2,autogenous.blog,available,2.98,32.98,low,low,10,namecheap,,,07/08/2026 20:16
 08250584-2b80-4a74-aba9-67594516d228,equivalent.blog,available,5.99,,high,low,10,name.com,,,
 f7d7b4c8-645d-409a-bcca-32d0923381d9,anadromous.blog,available,2.98,32.98,low,low,10,namecheap,,,
@@ -936,13 +934,13 @@ c3539ea9-e510-4c3c-9b70-4577e2dc077a,masters.blog,premium,640,2660,high,low,7,na
 9cf28b31-56c6-4ce1-a170-c80e287e847c,stock.blog,premium,650,2600,medium,medium,5,namecheap,,,
 82363d06-2b2d-42c6-9988-3aa911bfce34,pacific.blog,premium,160,0.99,high,low,7,namesilo,,,
 00091a66-40b7-458a-aa1c-9515d3d5700f,acinous.blog,available,2.98,32.98,low,low,7,namecheap,,,
-3aac7fff-bec2-42e3-a44f-018623df6aee,SouthAfrica.blog,available,,,low,low,12,,,,
+3aac7fff-bec2-42e3-a44f-018623df6aee,southafrica.blog,available,,,low,low,12,,,,
 706c9542-9ecc-42c6-b18d-5b5fd0bef23c,seeds.blog,premium,175,700,low,low,5,namecheap,,,
 523fbf25-8b8f-4e66-a814-097cdae60fd4,massage.blog,premium,646.25,,high,low,7,name.com,,,
 4d163723-9e5b-4d98-a530-7b0e7650ea33,who.blog,available,,,medium,low,3,,,,
-1a1e640d-dd19-4a4e-aedb-70efb5c2255b,Gregg.blog,premium,53.92,242,medium,low,5,namesilo,,,
+1a1e640d-dd19-4a4e-aedb-70efb5c2255b,gregg.blog,premium,53.92,242,medium,low,5,namesilo,,,
 373ee9da-cd60-4db0-930d-bbc5492c4c87,gate.blog,premium,646.25,,high,low,4,name.com,,,
-e8be4d7d-b818-45e9-b2c7-0fe2b8099708,Himself.blog,available,4.29,22.99,medium,low,7,namesilo,,,
+e8be4d7d-b818-45e9-b2c7-0fe2b8099708,himself.blog,available,4.29,22.99,medium,low,7,namesilo,,,
 b4c5ab3f-e1e8-45f0-89a1-4cea79dcfb25,routine.blog,resell,,,high,low,7,"Spaceship, Inc.",30/05/2025 11:17,30/05/2026 11:17,
 2efbfd61-da94-4745-a175-7ccb425c5359,teal.blog,available,4.29,22.99,high,low,4,namesilo,,,
 782c6d57-df49-4efd-8cf0-5eb37879a869,violated.blog,available,4.29,22.99,medium,low,8,namesilo,,,
@@ -961,7 +959,7 @@ a0681948-834d-407b-b28e-b2de2e2c4fe7,insurancecarrier.blog,available,4.29,22.99,
 eefe0bcd-221c-4c17-bfc5-60c4a3242e7f,lush.blog,premium,160,640,medium,medium,4,namesilo,,,
 3495c0ee-7e67-438a-a559-c1fca871ca10,dowhat.blog,available,4.29,22.99,medium,low,7,namesilo,,,
 e35506cc-9a92-4eeb-a39c-bc55903769ed,anything.blog,premium,175.7,700,high,low,8,namecheap,,,
-e6052eb9-fa99-493d-be1d-640579accf64,WinterHaven.blog,available,,,low,low,12,,,,
+e6052eb9-fa99-493d-be1d-640579accf64,winterhaven.blog,available,,,low,low,12,,,,
 19fc4b19-af3b-4d18-ad98-974a6b92354f,leasing.blog,premium,650,2600,high,low,7,namecheap,,,
 08209565-9fe9-44cc-9666-c07a2b901ffd,comic.blog,premium,640,0.99,high,low,5,namesilo,,,
 4f173c36-66c8-44ad-ac68-b41d952af38f,territory.blog,premium,160,640,high,low,9,namesilo,,,
@@ -993,9 +991,11 @@ e2bb3716-d974-4310-a4a1-8aab4987b1e5,discriminating.blog,available,4.29,22.99,me
 0520ab67-2cd8-4a1d-a673-e7565428f457,retina.blog,available,4.29,22.99,high,low,6,namesilo,,,
 e604d8be-075c-446c-a132-78492c8f628d,countryoforigin.blog,available,4.29,22.99,medium,low,17,namesilo,,,
 b399c57d-1ae0-44d3-a0ea-c52f7848fad7,possess.blog,available,4.29,22.99,high,low,7,namesilo,,,
-8211824f-ac8d-4854-94b7-10e39f70e130,Panes.blog,available,4.29,22.99,medium,low,5,namesilo,,,
+8211824f-ac8d-4854-94b7-10e39f70e130,panes.blog,available,4.29,22.99,medium,low,5,namesilo,,,
 34a8005a-4b32-41bc-8860-c7939cfaf229,primarily.blog,available,4.29,22.99,medium,low,9,namesilo,,,
 88ea8015-6dd2-4482-ad7e-8346014f7694,givethanks.blog,available,4.29,22.99,medium,low,11,namesilo,,,
 0db6c457-e6af-49a8-a21b-b7b28f216bd9,limo.blog,premium,160,640,high,low,4,namesilo,,,
 3d8020e6-202e-46c1-a221-6a543463259b,aftuh.blog,available,4.29,22.99,medium,low,5,namesilo,,,
 7914e22a-9c24-45af-8b60-495ad20f570c,anniversary.blog,premium,160,640,high,low,11,namesilo,,,
+41f7ef2b-e68e-47f9-9125-9c026994ee1c,scientist.blog,premium,160,640,high,low,9,namesilo,,,
+de2e2ae2-a9be-474a-8aa6-bbb25ff28068,friendship.blog,premium,640,2660,high,low,10,namesilo,,,
