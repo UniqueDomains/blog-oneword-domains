@@ -1,10 +1,10 @@
-# Available .BLOG One-Word Domains (28,616)
+# Available .BLOG One-Word Domains (30,618)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C616%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C618%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .blog one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,616 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,618 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,616 domains · **Median ask:** $140.47 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 30,618 domains · **Median ask:** $135.81 · **High-demand under $2,500:** 35
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/blog`
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | analog.blog   | resell    | —         | —             | high           | low    | 6      | Dynadot LLC   |
 | ail.blog      | premium   | $162.50   | $650          | medium         | low    | 3      | namecheap     |
 | dozy.blog     | available | $2.98     | $32.98        | medium         | low    | 4      | namecheap     |
-| baseline.blog | resell    | —         | —             | high           | low    | 8      | Go Daddy, LLC |
+| undead.blog   | resell    | —         | —             | high           | low    | 6      | —             |
 | aku.blog      | premium   | $162.50   | $650          | high           | low    | 3      | namecheap     |
+| dunk.blog     | available | $4.29     | $22.99        | high           | low    | 4      | namesilo      |
+| baseline.blog | resell    | —         | —             | high           | low    | 8      | Go Daddy, LLC |
+| and.blog      | premium   | $1,662.50 | $6,900        | high           | medium | 3      | namesilo      |
 | erse.blog     | available | $2.98     | $32.98        | medium         | low    | 4      | namecheap     |
 | compiled.blog | resell    | —         | —             | medium         | low    | 8      | —             |
-| and.blog      | premium   | $1,662.50 | $6,900        | high           | medium | 3      | namesilo      |
+| auc.blog      | premium   | $160      | $640          | high           | low    | 3      | namesilo      |
 | eyck.blog     | available | $2.05     | $20.18        | high           | low    | 4      | spaceship     |
 | latitude.blog | resell    | —         | —             | high           | low    | 8      | Dynadot LLC   |
-| auc.blog      | premium   | $160      | $640          | high           | low    | 3      | namesilo      |
-| flaw.blog     | available | $2.05     | $20.18        | medium         | low    | 4      | spaceship     |
-| medicare.blog | resell    | —         | —             | high           | low    | 8      | —             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,616 live domains                        |
+| 1,000-row public sample | 30,618 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 33 high-demand names under $2,500          |
+| Basic exported fields   | 35 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BLOG One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
